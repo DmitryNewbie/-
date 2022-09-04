@@ -1,0 +1,15 @@
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.csproj.AssemblyReference.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.AssemblyInfoInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.AssemblyInfo.cs
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.csproj.CoreCompileInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\bin\Debug\net6.0\2задание.exe
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\bin\Debug\net6.0\2задание.deps.json
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\bin\Debug\net6.0\2задание.runtimeconfig.json
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\bin\Debug\net6.0\2задание.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\bin\Debug\net6.0\ref\2задание.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\bin\Debug\net6.0\2задание.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\ref\2задание.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\Домашние\2задание\obj\Debug\net6.0\2задание.genruntimeconfig.cache
